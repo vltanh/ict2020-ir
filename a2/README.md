@@ -10,6 +10,7 @@
 
 ```
 conda create -n ir-a2
+conda activate ir-a2
 conda install python=3.9
 conda install whoosh
 conda install feedparser
