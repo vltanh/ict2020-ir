@@ -1,4 +1,4 @@
-# Bag of Word Model Analysis
+# Bag of Visual Word Model Analysis
 
 ## Info
 
